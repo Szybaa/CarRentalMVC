@@ -1,5 +1,6 @@
 ﻿using CarRentalMVC.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace CarRentalMVC.Controllers
